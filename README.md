@@ -21,4 +21,6 @@ You can right a plugin for Unity that renders the OpenGL textures received from 
 
 (-) Is there a way to support stereoscopic? 
 
+(-) Other VR headset support can be added.
 
+(-) Can we import some features from [Monado](https://monado.dev/)? Mando is a Linux OpenXR package. Can we import it to MacOS?
