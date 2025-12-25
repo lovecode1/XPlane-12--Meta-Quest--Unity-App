@@ -25,3 +25,5 @@ You can right a plugin for Unity that renders the OpenGL textures received from 
 
 (-) Can we import some features from [Monado](https://monado.dev/)? Mando is a Linux OpenXR package. Can we import it to MacOS?
 [Source code](https://gitlab.freedesktop.org/monado/monado).
+
+(-) Use VR headset controller to control yoke and other controls.
